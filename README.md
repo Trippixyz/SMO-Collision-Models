@@ -1,6 +1,6 @@
-# smo-exlaunch-base
+# SMO-Collision-Models
 
-A semi-working base repository to use for Super Mario Odyssey.
+An attempt at rendering Super Mario Odyssey's Collision Models instead of their Visual Models.
 
 # Credits
 
